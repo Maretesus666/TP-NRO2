@@ -9,7 +9,7 @@ int main() {
 
   scanf("%s", nombre);
 
-  printf("Hola, %s! Bienvenido al programa.\n", nombre);
+  printf("tu nombre es %s\n", nombre);
 
   return 0;
 }
